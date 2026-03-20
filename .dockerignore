@@ -1,0 +1,9 @@
+.github
+
+.dockerignore
+Dockerfile
+docker-bake.hcl
+**/*.md
+LICENSE
+
+**/crds/**
