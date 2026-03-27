@@ -5,8 +5,7 @@ on:
   push:
     branches: [default]
     paths-ignore:
-      - LICENSE
-      - '**/*.md'
+      - CHANGELOG.md
 
 jobs:
   version:
